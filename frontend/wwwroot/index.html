@@ -26,7 +26,20 @@
         <a href="" class="reload">Reload</a>
         <a class="dismiss">🗙</a>
     </div>
+
     <script src="_framework/blazor.webassembly.js"></script>
+
+    <script>
+        // Captura errores JavaScript globales
+        window.addEventListener('error', function (e) {
+            console.error('Global JS Error:', e.message, 'at', e.filename, 'line', e.lineno);
+        });
+
+        // Captura errores no manejados en Promesas
+        window.addEventListener('unhandledrejection', function (e) {
+            console.error('Unhandled Promise Rejection:', e.reason);
+        });
+    </script>
 </body>
 
 </html>

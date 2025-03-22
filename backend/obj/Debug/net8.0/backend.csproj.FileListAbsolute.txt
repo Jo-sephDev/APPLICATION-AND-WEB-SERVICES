@@ -65,6 +65,7 @@ D:\APPANDWEBSERVICES\backend\obj\Debug\net8.0\backend.AssemblyInfo.cs
 D:\APPANDWEBSERVICES\backend\obj\Debug\net8.0\backend.csproj.CoreCompileInputs.cache
 D:\APPANDWEBSERVICES\backend\obj\Debug\net8.0\backend.MvcApplicationPartsAssemblyInfo.cs
 D:\APPANDWEBSERVICES\backend\obj\Debug\net8.0\backend.MvcApplicationPartsAssemblyInfo.cache
+D:\APPANDWEBSERVICES\backend\obj\Debug\net8.0\backend.sourcelink.json
 D:\APPANDWEBSERVICES\backend\obj\Debug\net8.0\staticwebassets.build.json
 D:\APPANDWEBSERVICES\backend\obj\Debug\net8.0\staticwebassets.development.json
 D:\APPANDWEBSERVICES\backend\obj\Debug\net8.0\staticwebassets\msbuild.backend.Microsoft.AspNetCore.StaticWebAssets.props
